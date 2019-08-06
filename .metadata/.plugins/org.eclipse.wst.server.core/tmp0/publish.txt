@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Sun Jul 21 08:52:42 CEST 2019
+org.eclipse.jst.jee.server\:/binary\:/Users/michaelmeier/Desktop/eclipse3/11-spring-mvc-form-tag/WebContent/WEB-INF/lib/spring-web-5.1.7.RELEASE.jar=WEB-INF/lib/spring-web-5.1.7.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/michaelmeier/Desktop/eclipse3/22-web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.1.7.RELEASE.jar=WEB-INF/lib/spring-web-5.1.7.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/michaelmeier/Desktop/eclipse3/11-spring-mvc-form-tag/WebContent/WEB-INF/lib/spring-web-5.1.7.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.7.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/michaelmeier/Desktop/eclipse3/22-web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.1.7.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.7.RELEASE-sources.jar

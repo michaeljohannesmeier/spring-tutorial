@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Spring REST demo</title>
+</head>
+<body>
+
+<h2>Spring REST demo</h2>
+<a href="/test/hello">Hello</a>
+
+</body>
+</html>

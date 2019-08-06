@@ -1,0 +1,16 @@
+INDEX VERSION 1.4+/Users/michaelmeier/Desktop/eclipse3/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2662463517.index
+1629758234.index
+3583201755.index
+191834151.index
+2010142616.index
+1025593826.index
+2279191599.index
+2384564582.index
+1508807595.index
+1635252165.index
+3267931060.index
+548744305.index
+436240499.index
+90104032.index
+787343531.index

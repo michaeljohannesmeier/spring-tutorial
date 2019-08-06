@@ -1,0 +1,42 @@
+package com.luv2code.springbootcruddemo.dao;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+
+import org.hibernate.Session;
+import org.hibernate.query.Query;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.luv2code.springbootcruddemo.entity.Employee;
+
+@Repository
+public class EmployeeHibernateDAOImpl implements EmployeeDAO {
+
+	private EntityManager entityManager;
+	
+	@Autowired
+	public EmployeeHibernateDAOImpl(EntityManager theEntityManager) {
+		entityManager = theEntityManager;
+	}
+	
+	@Override
+	@Transactional
+	public List<Employee> findAll() {
+		
+		// get current session
+		Session currentSession = entityManager.unwrap(Session.class);
+		
+		// create query
+		Query<Employee> theQuery = 
+				currentSession.createQuery("from Employee", Employee.class);
+		
+		// execute query
+		List<Employee> employees = theQuery.getResultList();
+		
+		return employees;
+	}
+
+}

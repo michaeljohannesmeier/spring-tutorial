@@ -1,0 +1,7 @@
+info.app.name=mycoolapp
+info.app.description=A super cool app
+info.app.version=1.0.0
+
+# User wildcard * to expose all endpoints
+# use comma seperated list for only a few
+management.endpoints.web.exposure.include=*

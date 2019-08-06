@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=5-annotation-config-di/src&lt;com.luv2code.springdemo{FortuneService.java[FortuneService" modifiers="513" timestamp="1558261497000"/>
+    <typeInfo handle="=7-java-code-config/src&lt;com.luv2code.springdemo{FortuneService.java[FortuneService" modifiers="513" timestamp="1558261497000"/>
+    <typeInfo handle="=7-java-code-config/src&lt;com.luv2code.springdemo{Coach.java[Coach" modifiers="513" timestamp="1558261573000"/>
+    <typeInfo handle="=22-web-customer-tracker/src&lt;com.luv2code.springdemo.dao{CustomerDAO.java[CustomerDAO" modifiers="513" timestamp="1563606829000"/>
+    <typeInfo handle="=22-web-customer-tracker/src&lt;com.luv2code.springdemo.service{CustomerService.java[CustomerService" modifiers="513" timestamp="1563606575000"/>
+    <typeInfo handle="=26-spring-security-start/\/Users\/michaelmeier\/.m2\/repository\/org\/springframework\/security\/spring-security-web\/5.0.0.RELEASE\/spring-security-web-5.0.0.RELEASE.jar&lt;org.springframework.security.web.context(AbstractSecurityWebApplicationInitializer.class[AbstractSecurityWebApplicationInitializer" modifiers="1057" timestamp="1563697006000"/>
+    <typeInfo handle="=26-spring-security-start/\/Users\/michaelmeier\/.m2\/repository\/org\/springframework\/security\/spring-security-config\/5.0.0.RELEASE\/spring-security-config-5.0.0.RELEASE.jar&lt;org.springframework.security.config.annotation.web.configuration(WebSecurityConfigurerAdapter.class[WebSecurityConfigurerAdapter" modifiers="1057" timestamp="1563697006000"/>
+    <typeInfo handle="=30-spring-rest-demo/\/Users\/michaelmeier\/.m2\/repository\/org\/springframework\/spring-webmvc\/5.0.5.RELEASE\/spring-webmvc-5.0.5.RELEASE.jar&lt;org.springframework.web.servlet.support(AbstractAnnotationConfigDispatcherServletInitializer.class[AbstractAnnotationConfigDispatcherServletInitializer" modifiers="1057" timestamp="1564252208000"/>
+    <typeInfo handle="=31-spring-rest-crud/\/Library\/Java\/JavaVirtualMachines\/jdk1.8.0_201.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1544928886000"/>
+    <typeInfo handle="=34-spring-boot-cruddemo/src\/main\/java&lt;com.luv2code.springbootcruddemo.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1564431877000"/>
+    <typeInfo handle="=35-spring-boot-jpa-dao/src\/main\/java&lt;com.luv2code.springbootcruddemo.dao{EmployeeDAO.java[EmployeeDAO" modifiers="513" timestamp="1564431214000"/>
+    <typeInfo handle="=36-spring-boot-data-jpa/\/Users\/michaelmeier\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.1.9.RELEASE\/spring-data-jpa-2.1.9.RELEASE.jar&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1564336030000"/>
+</typeInfoHistroy>
